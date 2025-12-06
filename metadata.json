@@ -1,0 +1,7 @@
+{
+  "name": "Neon AI Tutor",
+  "description": "A futuristic real-time voice AI tutor that helps you study, summarizes concepts, and tracks your learning progress using Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
